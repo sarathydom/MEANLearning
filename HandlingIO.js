@@ -68,5 +68,4 @@ function objToStr(){
         console.log(octectBuffer)
         console.log(UTF8buff)
     }
-
-    creatingBuffer()
+    //creatingBuffer()
